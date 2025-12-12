@@ -112,8 +112,8 @@ python -m venv venv
 ```
 
 ## ▶️ Ativar o ambiente virtual
+## Windows:
 ```bash
-Windows:
 .\venv\Scripts\activate
 ```
 ## Linux/macOS:
