@@ -36,6 +36,7 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 ### 🧾 Geração de QR Code
 - Inserir texto ou link  
 - Escolher cor principal e cor de fundo  
+- Inserir **logo no centro** (opcional)  
 - QR Code gerado instantaneamente  
 
 ### 💾 Exportação
@@ -112,8 +113,8 @@ python -m venv venv
 ```
 
 ## ▶️ Ativar o ambiente virtual
-## Windows:
 ```bash
+Windows:
 .\venv\Scripts\activate
 ```
 ## Linux/macOS:
@@ -169,9 +170,9 @@ Este projeto está sob a **MIT License**, permitindo uso livre para estudo, modi
 ---
 
 ## 👤 Autor
-**Matheus Pereira**
-💻 Estudante de Engenharia de Software – FANS - Faculdade de Nova Serrana 
-⭐ Apaixonado por desenvolvimento desktop em Python
+**Matheus Pereira** <br> 
+💻 Estudante de Engenharia de Software Faculdade de Nova Serrana <br>
+⭐ Apaixonado por desenvolvimento desktop em Python <br>
 🔗 GitHub: https://github.com/MatheusPereiira
 
 ---
