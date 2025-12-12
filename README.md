@@ -36,7 +36,6 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 ### 🧾 Geração de QR Code
 - Inserir texto ou link  
 - Escolher cor principal e cor de fundo  
-- Inserir **logo no centro** (opcional)  
 - QR Code gerado instantaneamente  
 
 ### 💾 Exportação
@@ -106,28 +105,33 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 ```bash
 git clone https://github.com/MatheusPereiira/projeto-qr-code-generator-simples.git
 cd projeto-qr-code-generator-simples
-
-2️⃣ Crie um ambiente virtual
+```
+## 2️⃣ Crie um ambiente virtual
+```bash
 python -m venv venv
+```
 
-▶️ Ativar o ambiente virtual
-
+## ▶️ Ativar o ambiente virtual
+```bash
 Windows:
-
 .\venv\Scripts\activate
-
-
-Linux/macOS:
-
+```
+## Linux/macOS:
+```bash
 source venv/bin/activate
-
-3️⃣ Instale as dependências
+```
+## 3️⃣ Instale as dependências
+```bash
 pip install -r requirements.txt
-
-4️⃣ Execute o programa
+```
+## 4️⃣ Execute o programa
+```bash
 python main.py
+```
+---
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+```bash
 projeto_qrcode/
 │
 ├── assets/                 # Imagens usadas no README
@@ -140,7 +144,7 @@ projeto_qrcode/
 │
 ├── backend/
 │   ├── database.py         # Manipulação do JSON
-│   └── qrgenerator.py      # Geração do QR e aplicação de logo
+│   └── qrgenerator.py      # Geração do QR 
 │
 ├── data/
 │   └── history.json        # Histórico dos QR Codes
@@ -156,14 +160,18 @@ projeto_qrcode/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
+--- 
 
-📄 Licença
+## 📄 Licença
+Este projeto está sob a **MIT License**, permitindo uso livre para estudo, modificação e distribuição.
 
-Este projeto está sob a MIT License, permitindo uso livre para estudo, modificação e distribuição.
+---
 
-👤 Autor
-
-Matheus Pereira
+## 👤 Autor
+**Matheus Pereira**
 💻 Estudante de Engenharia de Software – FANS - Faculdade de Nova Serrana 
 ⭐ Apaixonado por desenvolvimento desktop em Python
 🔗 GitHub: https://github.com/MatheusPereiira
+
+---
