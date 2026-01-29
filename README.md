@@ -2,7 +2,7 @@
   <img src="assets/banner.png" width="100%">
 </p>
 
-<h1 align="center">📱 QR CODE GENERATOR</h1>
+<h1 align="center"> QR CODE GENERATOR</h1>
 
 <p align="center">
   <img src="assets/logo.png" width="180">
@@ -17,7 +17,7 @@
 
 ---
 
-# ⚠️ Aviso
+#  Aviso
 
 **Status do Projeto:** Em desenvolvimento.
 
@@ -30,25 +30,25 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 
 ---
 
-# ✅ Funcionalidades
+#  Funcionalidades
 
-### 🧾 Geração de QR Code
+###  Geração de QR Code
 - Inserir texto ou link  
 - Escolher cor principal e cor de fundo  
 - QR Code gerado instantaneamente  
 
-### 💾 Exportação
+###  Exportação
 - Exportar como **PNG**  
 - Exportar como **SVG (vetorial)**  
 
-### 🗂 Histórico Avançado
+###  Histórico Avançado
 - Armazenamento automático em **JSON**  
 - Busca por texto  
 - Visualização ampliada  
 - Exclusão individual  
 - Atualização automática  
 
-### 🎨 Interface Moderna
+###  Interface Moderna
 - Estilo limpo  
 - Botões estilizados  
 - Campos arredondados  
@@ -56,37 +56,37 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 
 ---
 
-# 🖼️ Capturas de Tela
+#  Capturas de Tela
 
-## 🏠 Página Principal
+##  Página Principal
 <p align="center">
   <img src="assets/paginaprincipal.png" width="70%">
 </p>
 
 ---
 
-## 🎨 Seleção de Cores
+##  Seleção de Cores
 <p align="center">
   <img src="assets/paleta.png" width="70%">
 </p>
 
 ---
 
-## 🗂 Histórico
+##  Histórico
 <p align="center">
   <img src="assets/historico.png" width="70%">
 </p>
 
 ---
 
-## 🔍 Visualização Ampliada
+##  Visualização Ampliada
 <p align="center">
   <img src="assets/qrampliado.png" width="70%">
 </p>
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 | Categoria | Tecnologia |
 |----------|------------|
@@ -98,19 +98,19 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 
 ---
 
-# 🚀 Como Executar o Projeto
+#  Como Executar o Projeto
 
-## 1️⃣ Clone o repositório
+##  Clone o repositório
 ```bash
 git clone https://github.com/MatheusPereiira/projeto-qr-code-generator-simples.git
 cd projeto-qr-code-generator-simples
 ```
-## 2️⃣ Crie um ambiente virtual
+##  Crie um ambiente virtual
 ```bash
 python -m venv venv
 ```
 
-## ▶️ Ativar o ambiente virtual
+##  Ativar o ambiente virtual
 ```bash
 Windows:
 .\venv\Scripts\activate
@@ -119,17 +119,17 @@ Windows:
 ```bash
 source venv/bin/activate
 ```
-## 3️⃣ Instale as dependências
+##  Instale as dependências
 ```bash
 pip install -r requirements.txt
 ```
-## 4️⃣ Execute o programa
+##  Execute o programa
 ```bash
 python main.py
 ```
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 ```bash
 projeto_qrcode/
 │
@@ -162,15 +162,16 @@ projeto_qrcode/
 ```
 --- 
 
-## 📄 Licença
-Este projeto está sob a **MIT License**, permitindo uso livre para estudo, modificação e distribuição.
+##  Licença
+
+- Este projeto está sob a **MIT License**, permitindo uso livre para estudo, modificação e distribuição.
 
 ---
 
-## 👤 Autor
+##  Autor
 **Matheus Pereira** <br> 
-💻 Estudante de Engenharia de Software Faculdade de Nova Serrana <br>
-⭐ Apaixonado por desenvolvimento desktop em Python <br>
-🔗 GitHub: https://github.com/MatheusPereiira
+- Estudante de Engenharia de Software Faculdade de Nova Serrana <br>
+- Apaixonado por desenvolvimento desktop em Python <br>
+- GitHub: https://github.com/MatheusPereiira
 
 ---
