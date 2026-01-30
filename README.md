@@ -102,8 +102,8 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 
 ##  Clone o repositório
 ```bash
-git clone https://github.com/MatheusPereiira/projeto-qr-code-generator-simples.git
-cd projeto-qr-code-generator-simples
+git clone https://github.com/MatheusPereiira/qr-code-generator-simples.git
+cd qr-code-generator-simples
 ```
 ##  Crie um ambiente virtual
 ```bash
